@@ -1,4 +1,4 @@
-# makeit_breakit
+# Snappable_Isolate_Tests
 
 Experimenting with different isolates and computation methods for the https://pub.dev/packages/snappable/
 
